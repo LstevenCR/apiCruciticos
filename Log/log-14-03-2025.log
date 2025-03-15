@@ -1,0 +1,47 @@
+[14-03-2025 01:38:04] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Unknown column 'crear' in 'where clause'
+ [14-03-2025 01:38:05] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Unknown column 'crear' in 'where clause'
+ [14-03-2025 01:54:33] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Unknown column 'crear' in 'where clause'
+ [14-03-2025 01:54:34] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Unknown column 'crear' in 'where clause'
+ [14-03-2025 01:54:39] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Unknown column 'crear' in 'where clause'
+ [14-03-2025 01:54:39] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Unknown column 'crear' in 'where clause'
+ [14-03-2025 01:54:46] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Unknown column 'crear' in 'where clause'
+ [14-03-2025 01:54:46] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Unknown column 'crear' in 'where clause'
+ [14-03-2025 03:04:16] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 03:06:33] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 06:46:07] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 06:55:55] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:03:37] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:07:15] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:14:57] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:00] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:00] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:00] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:00] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:01] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:01] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:01] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:01] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:01] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:09] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:09] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:09] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:09] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:10] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:10] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:10] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:10] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:10] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:16] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:17] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:17] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:17] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:17] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:17] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:18] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:18] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:19] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:19] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:19] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:15:19] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ [14-03-2025 07:30:45] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 74 - Message: Undefined property: stdClass::$id
+ 

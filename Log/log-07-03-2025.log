@@ -1,0 +1,24 @@
+[07-03-2025 05:03:11] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Table 'cruciticos.cruise_port' doesn't exist
+ [07-03-2025 05:03:12] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Table 'cruciticos.cruise_port' doesn't exist
+ [07-03-2025 05:46:32] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Table 'cruciticos.cruise_port' doesn't exist
+ [07-03-2025 05:46:33] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Table 'cruciticos.cruise_port' doesn't exist
+ [07-03-2025 05:51:14] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Table 'cruciticos.cruise_port' doesn't exist
+ [07-03-2025 05:51:14] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Table 'cruciticos.cruise_port' doesn't exist
+ [07-03-2025 05:56:44] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Table 'cruciticos.cruise_port' doesn't exist
+ [07-03-2025 05:57:11] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Table 'cruciticos.cruise_port' doesn't exist
+ [07-03-2025 05:58:05] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Table 'cruciticos.cruise_port' doesn't exist
+ [07-03-2025 05:58:05] [Joco] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Table 'cruciticos.cruise_port' doesn't exist
+ [07-03-2025 16:30:57] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 29 - Message: Unknown database 'cruciticos'
+ [07-03-2025 16:46:55] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Unknown column 'getRoomCruise' in 'where clause'
+ [07-03-2025 16:49:18] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\controllers\core\MySqlConnect.php - line: 46 - Message: Unknown column 'p.name' in 'field list'
+ [07-03-2025 16:52:43] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\models\RoomModel.php - line: 38 - Message: Trying to access array offset on value of type null
+ [07-03-2025 16:52:43] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\models\RoomModel.php - line: 38 - Message: Trying to access array offset on value of type null
+ [07-03-2025 16:52:47] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\models\RoomModel.php - line: 38 - Message: Trying to access array offset on value of type null
+ [07-03-2025 16:52:47] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\models\RoomModel.php - line: 38 - Message: Trying to access array offset on value of type null
+ [07-03-2025 16:52:58] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 55 - Message: Undefined property: stdClass::$roomId
+ [07-03-2025 16:52:58] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\models\CruiseModel.php - line: 55 - Message: Undefined property: stdClass::$roomId
+ [07-03-2025 16:53:27] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\models\RoomModel.php - line: 38 - Message: Trying to access array offset on value of type null
+ [07-03-2025 16:53:27] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\models\RoomModel.php - line: 38 - Message: Trying to access array offset on value of type null
+ [07-03-2025 16:53:29] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\models\RoomModel.php - line: 38 - Message: Trying to access array offset on value of type null
+ [07-03-2025 16:53:30] [warsb] error: File: C:\xampp\htdocs\apiCruciticos\models\RoomModel.php - line: 38 - Message: Trying to access array offset on value of type null
+ 
